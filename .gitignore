@@ -1,0 +1,8 @@
+#*.mp4
+#*.zip
+#*.npy
+#/datasets/
+/sample_data/
+__pycache__/
+venv/
+.DS_Store
