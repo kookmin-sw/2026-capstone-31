@@ -1,0 +1,9 @@
+#Python Version: 3.10.20
+mediapipe
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+torchaudio
+ipykernel
